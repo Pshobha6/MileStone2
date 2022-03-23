@@ -1,6 +1,6 @@
 package com.example.Milestone2.Configurations;
 
-import com.example.Milestone2.AuthenticationInterceptor.AuthInterceptor;
+import com.example.Milestone2.Interceptor.AuthInterceptor;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
